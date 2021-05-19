@@ -1,0 +1,1 @@
+﻿Persist Security Info=False;server=localhost;database=Quiz;uid=root;pwd=toor

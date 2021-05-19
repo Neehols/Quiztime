@@ -1,0 +1,66 @@
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\QuizAdmin.exe.config
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\QuizAdmin.exe
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\QuizAdmin.pdb
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\System.Memory.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\MySql.Data.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\Renci.SshNet.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\System.Buffers.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\System.Memory.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.Form1.resources
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.Properties.Resources.resources
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.csproj.CopyComplete
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.exe
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.pdb
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\bin\Debug\connectionstring.txt
+C:\Users\HP\source\repos\QuizAdmin\QuizAdmin\obj\Debug\QuizAdmin.csprojAssemblyReference.cache
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\connectionstring.txt
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\QuizAdmin.exe.config
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\QuizAdmin.exe
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\QuizAdmin.pdb
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\Google.Protobuf.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\MySql.Data.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\Renci.SshNet.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\System.Buffers.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\System.Memory.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\Zstandard.Net.dll
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\Google.Protobuf.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\MySql.Data.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\Renci.SshNet.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\System.Buffers.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\System.Memory.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.csprojAssemblyReference.cache
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.Form1.resources
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.Properties.Resources.resources
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.csproj.GenerateResource.cache
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.csproj.CoreCompileInputs.cache
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.csproj.CopyComplete
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.exe
+C:\Users\nightsky42\source\repos\QuizzAdmin (new)\QuizAdmin\obj\Debug\QuizAdmin.pdb
